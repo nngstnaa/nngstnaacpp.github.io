@@ -1,0 +1,9 @@
+1,Thank U Next,2019,700,549000
+2,Positions,2020,600,450000
+3,Yours Truly,2013,497,359000
+4,The Best,2017,400,300000
+5,Dangerous Woman,2016,600,650000
+6,Sweetener,2018,500,350000
+7,Christmas Kisses,2013,300,300000
+8,My Everything,2014,400,450000
+9,The Remix,2015,300,400000
